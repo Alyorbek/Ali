@@ -1,2 +1,0 @@
-# Ali
-Create new projects
